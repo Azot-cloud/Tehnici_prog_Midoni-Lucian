@@ -1,0 +1,22 @@
+{
+    "Site_url": "https://cybercor.org",
+    "Cod de stare": 200,
+    "Titlul paginii": "CYBERCOR",
+    "Adresa IP": "104.21.91.71",
+    "Redirectionari": [],
+    "Security headers": {
+        "Strict-Transport-Security": false,
+        "Content-Security-Policy": false,
+        "X-Frame-Options": true,
+        "X-Content-Type-Options": true,
+        "Referrer-Policy": true
+    },
+    "Certificat valabil (zile)": 46,
+    "Status rute": {
+        "/": 200,
+        "/robots.txt": 200,
+        "/sitemap.xml": 200
+    },
+    "Cai interzise": [],
+    "Salvat in report.json": true
+}
