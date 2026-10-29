@@ -2,3 +2,5 @@
 arsenal/
 
 .venv/
+
+.idea/
